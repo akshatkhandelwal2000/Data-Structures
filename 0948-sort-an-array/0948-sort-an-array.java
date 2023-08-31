@@ -1,5 +1,6 @@
 class Solution {
     public int[] sortArray(int[] nums) {
+        // Merge Sort
         // TC : O(NlogN) tc will always be O(NlogN) // SC : O(N)
         if(nums.length == 1) return nums;
         int low = 0;
@@ -43,6 +44,7 @@ class Solution {
 }
 //     class Solution {
 //     public int[] sortArray(int[] nums) {
+           // Quick Sort
 //         // TC : O(NlogN) tc can go up to N^2 in the worst case // SC : O(N) for recursion stack
 //            qs(nums, 0, nums.length-1);
 //            return nums;
@@ -79,6 +81,7 @@ class Solution {
 // }
 // class Solution {
 //      public int[] sortArray(int[] nums) {
+            // Bubble Sort 
 //          // TC : O(N^2) // SC : O(1) 
 //          for(int i = 0; i < nums.length; i++) {
 //              for(int j = 0; j < nums.length-i-1; j++) {
