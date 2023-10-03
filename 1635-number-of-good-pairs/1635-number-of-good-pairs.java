@@ -1,13 +1,12 @@
 class Solution {
     public int numIdenticalPairs(int[] nums) {
+        Map<Integer, Integer> map = new HashMap<>();
         int goodPairs = 0;
-        int n = nums.length;
-        for(int i = 0; i < n; i++) {
-            for(int j = i+1; j < n; j++) {
-                if(nums[i] == nums[j]) {
-                    goodPairs++;
-                }
+        for(int i = 0; i < nums.length; i++) {
+            if(map.containsKey(nums[i])) {
+                goodPairs += map.get(nums[i]);
             }
+            map.put(nums[i], map.getOrDefault(nums[i], 0)+1);
         }
         return goodPairs;
     }
