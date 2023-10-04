@@ -11,7 +11,7 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        // TC : O(M+N) // SC : O(1)
+        // TC : O(2M) // SC : O(1)
         if(headA == null || headB == null) {
             return null;
         }
