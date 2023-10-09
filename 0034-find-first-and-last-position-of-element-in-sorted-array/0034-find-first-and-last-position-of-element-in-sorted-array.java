@@ -30,10 +30,10 @@ class Solution {
                 index = mid;
                 if(flag) {
                     end = mid-1;
-            }
+                    }
                 else{
                     start = mid+1;
-                }    
+                    }
             }
             else if(nums[mid] < target) {
                 start = mid+1;
