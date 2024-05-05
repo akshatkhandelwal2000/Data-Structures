@@ -1,5 +1,6 @@
 class Solution {
     public boolean isValid(String word) {
+        // TC : O(20) // SC : O(1)
         int n = word.length();
         if(n < 3) return false;
         int in = 0;
