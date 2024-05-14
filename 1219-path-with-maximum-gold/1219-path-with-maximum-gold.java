@@ -21,9 +21,9 @@ class Solution {
         int temp = grid[i][j];
         grid[i][j] = 0;
         dfs(i+1, j, m, n, cur+temp, ans, grid);
-        dfs(i-1, j, m, n, cur+temp, ans, grid);
         dfs(i, j+1, m, n, cur+temp, ans, grid);
         dfs(i, j-1, m, n, cur+temp, ans, grid);
+        dfs(i-1, j, m, n, cur+temp, ans, grid);
         grid[i][j] = temp;
     }
 }
