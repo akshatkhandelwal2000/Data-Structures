@@ -1,6 +1,6 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        // TC : O(N) // SC : O(N)
+        // TC : O(N) // SC : O(3)
         int n = s.length();
         Map<Character, Integer> map = new HashMap<>();
         int i = 0;
