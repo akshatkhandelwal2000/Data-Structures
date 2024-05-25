@@ -1,5 +1,6 @@
 class Solution {
     public int duplicateNumbersXOR(int[] nums) {
+        // TC : O(N) // SC : O(N)
         int n = nums.length;
         int ans = 0;
         Set<Integer> set = new HashSet<>();
