@@ -1,21 +1,25 @@
 class Solution {
     public boolean isNStraightHand(int[] hand, int groupSize) {
-        // TC : O(NlogN) // SC : O(N)
+        // TC : O(N*N) // SC : O(1)
         int n = hand.length;
         if(n % groupSize != 0) return false;
-        Map<Integer, Integer> map = new HashMap<>();
-        for(int i = 0; i < n; i++) {
-            map.put(hand[i], map.getOrDefault(hand[i], 0)+1);
-        }
         Arrays.sort(hand);
         for(int i = 0; i < n; i++) {
-            if(map.get(hand[i]) == 0) continue;
-            for(int j = 0; j < groupSize; j++) {
-                int h = hand[i]+j;
-                if(map.getOrDefault(h, 0) <= 0) return false;
-                map.put(h, map.get(h)-1);
+            if(hand[i] >= 0) {
+                int k = 0;
+                int han = hand[i];
+                int j = i;
+                while(j < n && k < groupSize) {
+                    if(hand[j] == han) {
+                        han = hand[j]+1;
+                        hand[j] = -1;
+                        k++;
+                    }
+                    j++;
+                }
+                if(k != groupSize) return false;
             }
         }
         return true;
     }
-} 
+}
