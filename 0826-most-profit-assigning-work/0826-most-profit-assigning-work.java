@@ -1,6 +1,6 @@
 class Solution {
     public int maxProfitAssignment(int[] difficulty, int[] profit, int[] worker) {
-        // TC : O(NlogN) // SC : O(N)
+        // TC : O(NlogN) + O(N2logN) // SC : O(N)
         int n = difficulty.length;
         int n2 = worker.length;
         int[][] job = new int[n][2];
