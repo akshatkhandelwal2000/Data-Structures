@@ -4,21 +4,24 @@ class Solution {
         int n = customers.length;
         int ans = 0;
         for(int i = 0; i < n; i++) {
-            if(grumpy[i] == 0) ans += customers[i];
-            else grumpy[i] *= customers[i];
+            if(grumpy[i] == 0) {
+                ans += customers[i];
+            }
         }
         int i = 0;
         int j = 0;
         int sum = 0;
         int max = 0;
         while(j < n) {
-            sum += grumpy[j];
-            if(j-i+1 > minutes) {
-                sum -= grumpy[i];
-                i++;
+            if(grumpy[j] == 1) {
+                sum += customers[j];
             }
-            if(j-i+1 == minutes) {
+            while(j-i+1 == minutes) {
                 max = Math.max(max, sum);
+                if(grumpy[i] == 1) {
+                    sum -= customers[i];
+                }
+                i++;
             }
             j++;
         }
