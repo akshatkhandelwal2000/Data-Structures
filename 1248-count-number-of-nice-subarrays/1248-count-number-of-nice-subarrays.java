@@ -9,10 +9,10 @@ class Solution {
         int c = 0;
         while(j < n) {
             if(nums[j] % 2 != 0) {
-                c = 0;
                 odd++;
             }
             if(odd == k) {
+                c = 0;
                 while(odd == k) {
                     c++;
                     if(nums[i] % 2 != 0) {
