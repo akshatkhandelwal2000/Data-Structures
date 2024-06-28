@@ -1,5 +1,6 @@
 class Solution {
     public long maximumImportance(int n, int[][] roads) {
+        // TC : O(M) + O(MlogM) // SC : O(N) + O(N) + O(N)
         int m = roads.length;
         PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> b[1]-a[1]);
         Map<Integer, Integer> map = new HashMap<>();
