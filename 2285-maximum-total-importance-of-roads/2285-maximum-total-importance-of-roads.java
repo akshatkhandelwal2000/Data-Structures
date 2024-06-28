@@ -1,28 +1,17 @@
 class Solution {
     public long maximumImportance(int n, int[][] roads) {
-        // TC : O(M) + O(MlogM) // SC : O(N) + O(N) + O(N)
-        int m = roads.length;
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> b[1]-a[1]);
-        Map<Integer, Integer> map = new HashMap<>();
-        for(int i = 0; i < m; i++) {
-            map.put(roads[i][0], map.getOrDefault(roads[i][0], 0)+1);
-            map.put(roads[i][1], map.getOrDefault(roads[i][1], 0)+1);
+        // TC : O(NlogN) // SC : O(N);
+        int[] arr = new int[n];
+        for(int i = 0; i < roads.length; i++) {
+            arr[roads[i][0]]++;
+            arr[roads[i][1]]++;
         }
-        for(int i : map.keySet()) {
-            pq.offer(new int[]{i, map.get(i)});
-        }
-        int[] wt = new int[n];
-        int k = n;
-        while(!pq.isEmpty()) {
-            int node = pq.peek()[0];
-            pq.poll();
-            wt[node] = k;
-            k--;
-        }
+        Arrays.sort(arr);
         long ans = 0;
-        for(int j = 0; j < m; j++) {
-            ans += wt[roads[j][1]];
-            ans += wt[roads[j][0]];
+        int imp = 1;
+        for(int i : arr) {
+            ans += i*imp;
+            imp++;
         }
         return ans;
     }
