@@ -18,7 +18,7 @@ class Solution {
             wt[node] = k;
             k--;
         }
-        int ans = 0;
+        long ans = 0;
         for(int j = 0; j < m; j++) {
             ans += wt[roads[j][1]];
             ans += wt[roads[j][0]];
