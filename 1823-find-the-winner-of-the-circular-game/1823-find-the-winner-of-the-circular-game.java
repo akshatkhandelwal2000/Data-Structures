@@ -1,6 +1,6 @@
 class Solution {
     public int findTheWinner(int n, int k) {
-        k = k%n;
+        // TC : O(N) + O(N*K) // SC : O(N)
         Queue<Integer> q = new LinkedList<>();
         for(int i = 1; i <= n; i++) q.offer(i);
         while(q.size() != 1) {
