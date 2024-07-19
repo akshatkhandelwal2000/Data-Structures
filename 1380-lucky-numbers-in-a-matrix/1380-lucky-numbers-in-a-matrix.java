@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> luckyNumbers (int[][] matrix) {
-        // TC : O(M*N*M) // SC : O(M)
+        // TC : O(M*N*M) // SC : O(1)
         int m = matrix.length;
         int n = matrix[0].length;
         List<Integer> ans = new ArrayList<>();
