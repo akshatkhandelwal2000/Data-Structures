@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Linked List
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2502-sort-the-people](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2502-sort-the-people) |
 | [3462-vowels-game-in-a-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3462-vowels-game-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 <!---LeetCode Topics End-->
