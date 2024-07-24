@@ -1,5 +1,6 @@
 class Solution {
     public int similarPairs(String[] words) {
+        // TC : O(N*N) // SC : O(1)
         int n = words.length;
         int ans = 0;
         for(int i = 0; i < n; i++) {
