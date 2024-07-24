@@ -20,6 +20,7 @@ class Solution {
                 }
                 if(map.size() != map2.size()) {
                     flag = false;
+                    continue;
                 }
                 for(char v : map.keySet()) {
                     if(!map2.containsKey(v)) {
