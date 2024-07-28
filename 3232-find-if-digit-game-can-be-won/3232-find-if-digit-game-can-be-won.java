@@ -12,8 +12,7 @@ class Solution {
                 singleDigitSum += nums[i];
             }
         }
-        if(doubleDigitSum > singleDigitSum 
-        || singleDigitSum > doubleDigitSum) {
+        if(doubleDigitSum != singleDigitSum) {
             return true;
         }
         return false;
