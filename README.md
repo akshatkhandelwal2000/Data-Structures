@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1511-count-number-of-teams](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1511-count-number-of-teams) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Bit Manipulation
 |  |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0948-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
