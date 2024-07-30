@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0257-binary-tree-paths) |
 | [1720-crawler-log-folder](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2502-sort-the-people](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2594-count-pairs-of-similar-strings) |
 | [3462-vowels-game-in-a-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3462-vowels-game-in-a-string) |
