@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2047-find-a-peak-element-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2047-find-a-peak-element-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2594-count-pairs-of-similar-strings) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2047-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2047-find-a-peak-element-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2047-find-a-peak-element-ii) |
 ## Brainteaser
 |  |
 | ------- |
