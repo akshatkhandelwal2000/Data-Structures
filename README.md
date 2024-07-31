@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2594-count-pairs-of-similar-strings) |
 | [2846-robot-collisions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2846-robot-collisions) |
+| [3221-find-the-peaks](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3221-find-the-peaks) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Hash Table
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1511-count-number-of-teams) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
