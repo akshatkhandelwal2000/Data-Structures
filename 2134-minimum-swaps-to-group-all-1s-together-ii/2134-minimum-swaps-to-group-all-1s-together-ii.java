@@ -7,6 +7,7 @@ class Solution {
         for(int i = 0; i < n; i++) {
             if(nums[i] == 1) ones++;
         }
+        if(ones == 0) return 0;
         int i = 0;
         int j = 0;
         int sum = 0;
