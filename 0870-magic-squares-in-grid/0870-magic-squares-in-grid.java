@@ -32,7 +32,7 @@ class Solution {
         }
         if(rowSum[0] != rowSum[1] || rowSum[1] != rowSum[2]) return false;
         if(colSum[0] != colSum[1] || colSum[1] != colSum[2]) return false;
-        if(rowSum[0] != colSum[0] || colSum[0] != diagSum || diagSum != diagSum2) return false;
+        if(diagSum != diagSum2) return false;
         return true;
     }
 }
