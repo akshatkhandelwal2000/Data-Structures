@@ -1,13 +1,16 @@
 class Solution {
     public int maximumNumberOfStringPairs(String[] words) {
         int n = words.length;
+        Map<String, Integer> map = new HashMap<>();
+        for(int i = 0; i < n; i++) {
+            map.put(words[i], i);
+        }
         int ans = 0;
         for(int i = 0; i < n; i++) {
-            String s = words[i];
-            for(int j = i+1; j < n; j++) {
-                StringBuilder sb = new StringBuilder(words[j]);
-                String rev = sb.reverse().toString();
-                if(rev.equals(s)) ans++;
+            StringBuilder sb = new StringBuilder(words[i]);
+            String rev = sb.reverse().toString();
+            if(map.containsKey(rev) && map.get(rev) > i) {
+                ans++;
             }
         }
         return ans;
