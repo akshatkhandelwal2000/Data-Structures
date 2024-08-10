@@ -1,5 +1,6 @@
 class Solution {
     public int maximumNumberOfStringPairs(String[] words) {
+        // TC : O(N) // SC : O(N)
         int n = words.length;
         Map<String, Integer> map = new HashMap<>();
         for(int i = 0; i < n; i++) {
