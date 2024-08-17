@@ -1,5 +1,6 @@
 class Solution {
     public int[] resultsArray(int[] nums, int k) {
+        // TC : O(N*K) // SC : O(N-K+1)
         int n = nums.length;
         if(k == 1) return nums;
         int[] ans = new int[n-k+1];
