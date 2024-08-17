@@ -1,5 +1,6 @@
 class Solution {
     public int[] resultsArray(int[] nums, int k) {
+        // TC : O(N) // SC : O(N)
         int n = nums.length;
         int[] ct = new int[n];
         ct[0] = 1;
