@@ -1,5 +1,6 @@
 class Solution {
     public long maxEnergyBoost(int[] energyDrinkA, int[] energyDrinkB) {
+        // TC : O(N) // SC : O(N)
         int n = energyDrinkA.length;
         long[][] dp = new long[n][2];
         dp[0][0] = energyDrinkA[0];
