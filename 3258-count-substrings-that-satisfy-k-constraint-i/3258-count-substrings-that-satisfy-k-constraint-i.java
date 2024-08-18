@@ -1,6 +1,6 @@
 class Solution {
     public int countKConstraintSubstrings(String s, int k) {
-        // TC : O(N) // SC : O(1)
+        // TC : O(N^2) // SC : O(1)
         int n = s.length();
         int ans = 0;
         for(int i = 0; i < n; i++) {
