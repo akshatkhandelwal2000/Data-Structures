@@ -1,7 +1,7 @@
 class Solution {
     public long maxEnergyBoost(int[] energyDrinkA, int[] energyDrinkB) {
         int n = energyDrinkA.length;
-        long[][] dp = new long[n][n];
+        long[][] dp = new long[n][2];
         dp[0][0] = energyDrinkA[0];
         dp[0][1] = energyDrinkB[0];
         for(int i = 1; i < n; i++) {
