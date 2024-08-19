@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2594-count-pairs-of-similar-strings) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2846-robot-collisions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2594-count-pairs-of-similar-strings) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3462-vowels-game-in-a-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0658-find-k-closest-elements) |
+## Number Theory
+|  |
+| ------- |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
