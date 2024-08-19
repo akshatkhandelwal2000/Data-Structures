@@ -1,5 +1,6 @@
 class Solution {
     public int distinctPrimeFactors(int[] nums) {
+        // TC : O(N*maxnum) // SC : O(N)
         int n = nums.length;
         Set<Integer> set = new HashSet<>();
         for(int i = 0; i < n; i++) {
