@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0658-find-k-closest-elements) |
 | [0870-magic-squares-in-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0890-lemonade-change) |
+| [0909-stone-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1207-delete-nodes-and-return-forest) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0870-magic-squares-in-grid) |
+| [0909-stone-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0909-stone-game) |
 | [1642-water-bottles](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0909-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3462-vowels-game-in-a-string) |
 ## Counting
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0909-stone-game) |
 | [1511-count-number-of-teams](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3494-minimum-cost-for-cutting-cake-i) |
