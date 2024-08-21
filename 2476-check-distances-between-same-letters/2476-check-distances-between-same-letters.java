@@ -6,16 +6,10 @@ class Solution {
             if(map.containsKey(s.charAt(i))) {
                 int in = map.get(s.charAt(i));
                 int dis = Math.abs(i-in)-1;
-                map.put(s.charAt(i), dis);
+                int d = s.charAt(i)-'a';
+                if(distance[d] != dis) return false;
             }
             else map.put(s.charAt(i), i);
-        }
-        int in = 0;
-        for(char c = 'a'; c <= 'z'; c++) {
-            if(map.containsKey(c) && distance[in] != map.get(c)) {
-                return false;
-            }
-            in++;
         }
         return true;
     }
