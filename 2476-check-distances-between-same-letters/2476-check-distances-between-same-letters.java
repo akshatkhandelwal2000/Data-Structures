@@ -1,5 +1,6 @@
 class Solution {
     public boolean checkDistances(String s, int[] distance) {
+        // TC : O(N) // SC : O(N/2)
         int n = s.length();
         Map<Character, Integer> map = new HashMap<>();
         for(int i = 0; i < n; i++) {
