@@ -1,5 +1,6 @@
 class Solution {
     public int[] findingUsersActiveMinutes(int[][] logs, int k) {
+        // TC : O(N) // SC : O(N)
         int n = logs.length;
         int[] ans = new int[k];
         Map<Integer, Set<Integer>> map = new HashMap<>();
