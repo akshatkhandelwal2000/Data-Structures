@@ -1,5 +1,6 @@
 class Solution {
     public int findComplement(int num) {
+        // TC : O(N) // SC : O(N)
         String s = Integer.toBinaryString(num);
         StringBuilder sb = new StringBuilder();
         for(char c : s.toCharArray()) {
