@@ -1,5 +1,6 @@
 class Solution {
     public int halveArray(int[] nums) {
+        // TC : O(NlogN) // SC : O(N)
         PriorityQueue<Double> pq = new PriorityQueue<>(Collections.reverseOrder());
         double sum = 0;
         for(int i : nums) {
