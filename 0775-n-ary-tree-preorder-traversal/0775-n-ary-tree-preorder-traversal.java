@@ -19,7 +19,7 @@ class Node {
 
 class Solution {
     public List<Integer> preorder(Node root) {
-    //     // TC : O(N) // SC : O(N)
+        // TC : O(N) // SC : O(N)
         List<Integer> ans = new ArrayList<>();
         if(root == null) return ans;
         rec(root, ans);
@@ -31,7 +31,7 @@ class Solution {
         for(int i = 0; i < root.children.size(); i++) {
             rec(root.children.get(i), ans);
         }
-        
+
         // Iterative
         // TC : O(N) // SC : O(N)
         // List<Integer> ans = new ArrayList<>();
