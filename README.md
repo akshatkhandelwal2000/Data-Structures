@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0780-max-chunks-to-make-sorted) |
 | [1720-crawler-log-folder](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0257-binary-tree-paths) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0257-binary-tree-paths) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1207-delete-nodes-and-return-forest) |
 ## Matrix
 |  |
