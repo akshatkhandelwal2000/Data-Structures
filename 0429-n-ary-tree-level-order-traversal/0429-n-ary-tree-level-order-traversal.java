@@ -29,10 +29,10 @@ class Solution {
             List<Integer> list = new ArrayList<>();
             for(int i = 0; i < size; i++) {
                 Node node = q.poll();
+                list.add(node.val);
                 for(int j = 0; j < node.children.size(); j++) {
                     q.offer(node.children.get(j));
                 }
-                list.add(node.val);
             }
             ans.add(list);
         }
