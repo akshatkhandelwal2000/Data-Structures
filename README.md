@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2035-count-sub-islands](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1945-finding-the-users-active-minutes](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1945-finding-the-users-active-minutes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2035-count-sub-islands](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2047-find-a-peak-element-ii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -202,12 +204,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1207-delete-nodes-and-return-forest) |
+| [2035-count-sub-islands](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0054-spiral-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0870-magic-squares-in-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2035-count-sub-islands](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2047-find-a-peak-element-ii) |
 ## Brainteaser
 |  |
@@ -314,4 +318,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [2035-count-sub-islands](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
