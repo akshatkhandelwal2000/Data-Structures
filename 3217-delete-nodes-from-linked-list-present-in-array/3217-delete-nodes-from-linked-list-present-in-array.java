@@ -11,10 +11,9 @@
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
         // TC : O(N) // SC : O(N)
-        int n = nums.length;
         Set<Integer> set = new HashSet<>();
-        for(int i = 0; i < n; i++) {
-            set.add(nums[i]);
+        for(int i : nums) {
+            set.add(i);
         }
         ListNode dummy = new ListNode();
         dummy.next = head;
