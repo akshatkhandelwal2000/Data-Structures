@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3221-find-the-peaks) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
