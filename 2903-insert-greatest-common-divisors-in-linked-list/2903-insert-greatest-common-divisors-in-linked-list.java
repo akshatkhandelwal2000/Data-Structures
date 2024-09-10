@@ -10,6 +10,7 @@
  */
 class Solution {
     public ListNode insertGreatestCommonDivisors(ListNode head) {
+        // TC : O(N*log(min(a,b))) // SC : O(1)
         if(head.next == null) return head;
         ListNode dummy = new ListNode();
         ListNode temp = dummy;
