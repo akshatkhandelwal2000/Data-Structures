@@ -1,7 +1,7 @@
 class Solution {
     public int[] xorQueries(int[] arr, int[][] queries) {
         // TC : O(N*queries(Left,Right)) // SC : O(1)
-        int n = arr.length;
+        int n = queries.length;
         int[] ans = new int[n];
         for(int i = 0; i < n; i++) {
             int x = queries[i][0];
