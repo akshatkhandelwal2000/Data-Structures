@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2047-find-a-peak-element-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2476-check-distances-between-same-letters](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2476-check-distances-between-same-letters) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1945-finding-the-users-active-minutes](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1945-finding-the-users-active-minutes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2476-check-distances-between-same-letters](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2502-sort-the-people) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2476-check-distances-between-same-letters](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2502-sort-the-people) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
