@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0054-spiral-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0300-longest-increasing-subsequence) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
