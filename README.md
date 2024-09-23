@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0624-maximum-distance-in-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0890-lemonade-change) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0257-binary-tree-paths) |
+| [0402-remove-k-digits](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1720-crawler-log-folder](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0780-max-chunks-to-make-sorted) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0780-max-chunks-to-make-sorted) |
 ## Breadth-First Search
 |  |
