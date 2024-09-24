@@ -1,5 +1,6 @@
 class Solution {
     public int longestCommonPrefix(int[] arr1, int[] arr2) {
+        // TC : O(NlogM) // SC : O(NlogM)
         int n = arr2.length;
         Set<Integer> set = new HashSet<>();
         for(int num : arr1) {
