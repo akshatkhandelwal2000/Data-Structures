@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0948-sort-an-array) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0890-lemonade-change) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1720-crawler-log-folder](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1764-maximum-repeating-substring) |
