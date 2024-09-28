@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0376-wiggle-subsequence) |
+| [0455-assign-cookies](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0566-reshape-the-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0658-find-k-closest-elements) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0658-find-k-closest-elements) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0780-max-chunks-to-make-sorted) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0624-maximum-distance-in-arrays) |
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0780-max-chunks-to-make-sorted) |
