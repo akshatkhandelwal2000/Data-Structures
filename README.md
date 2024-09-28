@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0376-wiggle-subsequence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0376-wiggle-subsequence) |
 | [0566-reshape-the-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0566-reshape-the-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0658-find-k-closest-elements) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0624-maximum-distance-in-arrays) |
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0300-longest-increasing-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0376-wiggle-subsequence) |
 | [0909-stone-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0909-stone-game) |
 | [1511-count-number-of-teams](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1756-minimum-deletions-to-make-string-balanced) |
