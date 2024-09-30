@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2476-check-distances-between-same-letters](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2476-check-distances-between-same-letters) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2502-sort-the-people](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-check-if-a-string-can-break-another-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0909-stone-game) |
 | [1642-water-bottles](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
