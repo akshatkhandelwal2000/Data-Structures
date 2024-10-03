@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1694-make-sum-divisible-by-p](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1256-rank-transform-of-an-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1945-finding-the-users-active-minutes](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1945-finding-the-users-active-minutes) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1694-make-sum-divisible-by-p](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String Matching
 |  |
