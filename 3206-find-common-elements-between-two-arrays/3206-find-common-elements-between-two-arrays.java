@@ -1,5 +1,6 @@
 class Solution {
     public int[] findIntersectionValues(int[] nums1, int[] nums2) {
+        // TC : O(M+N) // SC : O(M+N)
         int n = nums2.length;
         int[] score = new int[2];
         Set<Integer> set = new HashSet<>();
