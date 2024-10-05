@@ -1,5 +1,6 @@
 class Solution {
     public long dividePlayers(int[] skill) {
+        // TC : O(NlogN) + O(N/2) // SC : O(1)
         int n = skill.length;
         long score = 0;
         Arrays.sort(skill);
