@@ -6,7 +6,7 @@ class Solution {
        int longest =1;
        for(int num: nums ){
            //check if the num is the start of a sequence by checking if left exists
-           //if(!hs.contains(num-1)){ // start of a sequence
+           if(!hs.contains(num-1)){ // start of a sequence
                 int count =1;
                 while(hs.contains(num + 1)){ // check if hs contains next no.
                     num++;
@@ -14,8 +14,8 @@ class Solution {
                 }
                 longest = Math.max(longest, count);
                 
-           //}
-           //if(longest > nums.length/2) break;
+           }
+           if(longest > nums.length/2) break;
 
        }
        return longest;
