@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0050-powx-n) |
 | [0870-magic-squares-in-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0909-stone-game) |
 | [1642-water-bottles](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1642-water-bottles) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
