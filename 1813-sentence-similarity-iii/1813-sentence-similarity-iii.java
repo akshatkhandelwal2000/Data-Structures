@@ -1,5 +1,6 @@
 class Solution {
     public boolean areSentencesSimilar(String sentence1, String sentence2) {
+        // TC : O(N + N) // SC  : O(M+N)
         String[] words1 = sentence1.split(" ");
         String[] words2 = sentence2.split(" ");
         if(words1.length < words2.length) {
