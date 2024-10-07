@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0219-contains-duplicate-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0739-daily-temperatures) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0566-reshape-the-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0870-magic-squares-in-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0300-longest-increasing-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0376-wiggle-subsequence) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0780-max-chunks-to-make-sorted) |
