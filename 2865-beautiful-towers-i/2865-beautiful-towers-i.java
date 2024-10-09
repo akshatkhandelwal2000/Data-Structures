@@ -1,12 +1,7 @@
 class Solution {
     public long maximumSumOfHeights(int[] heights) {
+        // TC : O(N * N) // SC : O(1)
         int n = heights.length;
-        long am = heights[0];
-        int aml = Integer.MAX_VALUE;
-        for(int i = 1; i < n; i++) {
-            aml = Math.min(aml, heights[i]);
-            am += aml;
-        }
         long ans = 0;
         for(int i = 0; i < n; i++) {
             int ele = heights[i];
@@ -22,24 +17,20 @@ class Solution {
                 ele2 += heights[k];
                 k++;
             }
-            int min = Integer.MAX_VALUE;
-            int min2 = Integer.MAX_VALUE;
-            int dex = j+1;
-            int dex2 = n-k;
+            int amm = heights[i];
+            int amb = heights[i];
             while(j >= 0) {
-                min = Math.min(min, heights[j]);
+                amm = Math.min(amm, heights[j]);
+                ele2 += amm;
                 j--;
             }
             while(k < n) {
-                min2 = Math.min(min2, heights[k]);
+                amb = Math.min(amb, heights[k]);
+                ele2 += amb;
                 k++;
             }
-            long an = min*dex;
-            long anc = min2*dex2;
-            ele2 += an;
-            ele2 += anc;
             ans = Math.max(ans, ele2);
         }
-        return Math.max(ans, am);
+        return ans;
     }
 }
