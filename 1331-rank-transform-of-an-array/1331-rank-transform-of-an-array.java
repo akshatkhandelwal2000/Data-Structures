@@ -1,5 +1,6 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
+        // TC : O(NlogN) + O(N) // SC : O(N)
         int n = arr.length;
         int[] rank = new int[n];
         for(int i = 0; i < n; i++) {
