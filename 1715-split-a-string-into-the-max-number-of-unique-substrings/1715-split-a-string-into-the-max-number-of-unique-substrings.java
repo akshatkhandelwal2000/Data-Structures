@@ -1,6 +1,6 @@
 class Solution {
     public int maxUniqueSplit(String s) {
-        // TC : O(2^N) // SC : O(2^N)
+        // TC : O(2^N) // SC : O(N)
         Set<String> set = new HashSet<>();
         int[] ans = new int[1];
         back(0, ans, set, s);
