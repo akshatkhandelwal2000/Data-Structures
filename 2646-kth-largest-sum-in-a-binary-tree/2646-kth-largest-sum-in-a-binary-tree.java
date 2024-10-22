@@ -15,23 +15,26 @@
  */
 class Solution {
     public long kthLargestLevelSum(TreeNode root, int k) {
-        // TC : O(NlogN) // SC : O(N)
+        // TC : O(N) // SC : O(N)
         Queue<TreeNode> q = new LinkedList<>();
-        List<Long> list = new ArrayList<>();
+        List<Long> ans = new ArrayList<>();
         q.offer(root);
         while(!q.isEmpty()) {
             int size = q.size();
             long sum = 0;
             for(int i = 0; i < size; i++) {
                 TreeNode curr = q.poll();
+                if(curr.left != null) {
+                    q.offer(curr.left);
+                }
+                if(curr.right != null) {
+                    q.offer(curr.right);
+                }
                 sum += curr.val;
-                if(curr.left != null) q.offer(curr.left);
-                if(curr.right != null) q.offer(curr.right);
             }
-            list.add(sum);
+            ans.add(sum);
         }
-        Collections.sort(list);
-        if(list.size()-k < 0) return -1;
-        return list.get(list.size()-k);
+        Collections.sort(ans);
+        return ans.size() < k ? -1 : ans.get(ans.size()-k);
     }
 }
