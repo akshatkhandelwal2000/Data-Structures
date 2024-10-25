@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1325-path-with-maximum-probability) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1502-construct-k-palindrome-strings) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1207-delete-nodes-and-return-forest) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2035-count-sub-islands](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2035-count-sub-islands) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Matrix
@@ -487,5 +490,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
