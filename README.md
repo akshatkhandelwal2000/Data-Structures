@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0566-reshape-the-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0870-magic-squares-in-grid) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2047-find-a-peak-element-ii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0518-coin-change-ii) |
 | [0909-stone-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0909-stone-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1764-maximum-repeating-substring) |
