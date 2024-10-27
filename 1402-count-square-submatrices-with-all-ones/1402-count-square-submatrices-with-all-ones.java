@@ -1,5 +1,6 @@
 class Solution {
     public int countSquares(int[][] matrix) {
+        // TC : O(M*N) // SC : O(M*N)
         int m = matrix.length;
         int n = matrix[0].length;
         int[][] dp = new int[m][n];
