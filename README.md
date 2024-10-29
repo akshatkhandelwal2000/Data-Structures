@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2594-count-pairs-of-similar-strings) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2727-number-of-senior-citizens) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2846-robot-collisions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2047-find-a-peak-element-ii) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Brainteaser
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1764-maximum-repeating-substring) |
 | [2586-longest-square-streak-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Bit Manipulation
 |  |
