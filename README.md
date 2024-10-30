@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
 | [0870-magic-squares-in-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0870-magic-squares-in-grid) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0257-binary-tree-paths) |
+| [0389-find-the-difference](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2323-minimum-bit-flips-to-convert-number) |
