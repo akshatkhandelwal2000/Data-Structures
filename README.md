@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-append-k-integers-with-minimal-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2442-number-of-arithmetic-triplets](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2442-number-of-arithmetic-triplets) |
 | [2476-check-distances-between-same-letters](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2476-check-distances-between-same-letters) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2502-sort-the-people) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2442-number-of-arithmetic-triplets](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2442-number-of-arithmetic-triplets) |
 | [2476-check-distances-between-same-letters](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2502-sort-the-people) |
 | [2586-longest-square-streak-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2586-longest-square-streak-in-an-array) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0658-find-k-closest-elements) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2442-number-of-arithmetic-triplets](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2442-number-of-arithmetic-triplets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2442-number-of-arithmetic-triplets) |
 | [3221-find-the-peaks](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3221-find-the-peaks) |
 ## Design
 |  |
