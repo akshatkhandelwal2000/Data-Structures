@@ -1,5 +1,6 @@
 class Solution {
     public int arithmeticTriplets(int[] nums, int diff) {
+        // TC : O(N^3) // SC : O(1)
         int n = nums.length;
         int ans = 0;
         for(int i = 0; i < n; i++) {
