@@ -1,5 +1,6 @@
 class Solution {
     public String makeFancyString(String s) {
+        // TC : O(N) // SC : O(N)
         int n = s.length();
         StringBuilder sb = new StringBuilder();
         int count = 0;
