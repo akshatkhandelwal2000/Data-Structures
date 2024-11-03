@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
+| [0812-rotate-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0812-rotate-string) |
 | [1764-maximum-repeating-substring](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1764-maximum-repeating-substring) |
 ## Trie
 |  |
