@@ -7,7 +7,7 @@ class Solution {
         int[][] dis = new int[m][n];
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
-                dis[i][j] = (int)(1e9);
+                dis[i][j] = Integer.MAX_VALUE;
             }
         }
         int[] delrow = {-1,0,1,0};
