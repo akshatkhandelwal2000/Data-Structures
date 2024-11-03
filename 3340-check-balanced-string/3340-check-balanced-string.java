@@ -1,5 +1,6 @@
 class Solution {
     public boolean isBalanced(String num) {
+        // TC : O(N) // SC : O(1)
         int n = num.length();
         int a = 0;
         int b = 0;
