@@ -1,5 +1,6 @@
 class Solution {
     public int minTimeToReach(int[][] moveTime) {
+        // TC : O(M*N*4) // SC : O(M*N)
         int m = moveTime.length;
         int n = moveTime[0].length;
         PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> a[2]-b[2]);
