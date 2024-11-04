@@ -1,5 +1,6 @@
 class Solution {
     public String compressedString(String word) {
+        // TC : O(N) // SC : O(N)
         int n = word.length();
         StringBuilder sb = new StringBuilder();
         int i = 0;
