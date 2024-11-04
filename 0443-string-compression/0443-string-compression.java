@@ -1,7 +1,7 @@
 class Solution {
     public int compress(char[] chars) {
+        // TC : O(N) // SC : O(1)
         int n = chars.length;
-        StringBuilder sb = new StringBuilder();
         int i = 0;
         int k = 0;
         while(i < n) {
