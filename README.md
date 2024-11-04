@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0658-find-k-closest-elements) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0812-rotate-string) |
