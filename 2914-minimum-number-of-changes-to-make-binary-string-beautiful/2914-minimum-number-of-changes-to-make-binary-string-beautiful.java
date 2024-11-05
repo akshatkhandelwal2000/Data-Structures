@@ -1,5 +1,6 @@
 class Solution {
     public int minChanges(String s) {
+        // TC : O(N) // SC : O(1)
         int n = s.length();
         int ans = 0;
         for(int i = 0; i < n; i+=2) {
