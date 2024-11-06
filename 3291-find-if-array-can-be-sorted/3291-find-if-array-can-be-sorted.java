@@ -1,5 +1,6 @@
 class Solution {
     public boolean canSortArray(int[] nums) {
+        // TC : O(N^2) // SC : O(1)
         int n = nums.length;
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < n-1; j++) {
