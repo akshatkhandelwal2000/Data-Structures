@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-special-quadruplets">2122. Count Special Quadruplets</a></h2><h3>Easy</h3><hr><p>Given a <strong>0-indexed</strong> integer array <code>nums</code>, return <em>the number of <strong>distinct</strong> quadruplets</em> <code>(a, b, c, d)</code> <em>such that:</em></p>
+<h2><a href="https://leetcode.com/problems/count-special-quadruplets/">2122. Count Special Quadruplets</a></h2><h3>Easy</h3><hr><p>Given a <strong>0-indexed</strong> integer array <code>nums</code>, return <em>the number of <strong>distinct</strong> quadruplets</em> <code>(a, b, c, d)</code> <em>such that:</em></p>
 
 <ul>
 	<li><code>nums[a] + nums[b] + nums[c] == nums[d]</code>, and</li>
