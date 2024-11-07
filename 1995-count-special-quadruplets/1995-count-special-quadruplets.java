@@ -1,5 +1,6 @@
 class Solution {
     public int countQuadruplets(int[] nums) {
+        // TC : O(N^4) // SC : O(1) 
         int n = nums.length;
         int ans = 0;
         for(int i = 0; i < n; i++) {
