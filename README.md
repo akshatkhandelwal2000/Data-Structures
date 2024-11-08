@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1940-maximum-xor-for-each-query](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1940-maximum-xor-for-each-query) |
 | [1945-finding-the-users-active-minutes](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1945-finding-the-users-active-minutes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2594-count-pairs-of-similar-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2594-count-pairs-of-similar-strings) |
 | [3291-find-if-array-can-be-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3291-find-if-array-can-be-sorted) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1694-make-sum-divisible-by-p) |
+| [1940-maximum-xor-for-each-query](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String Matching
