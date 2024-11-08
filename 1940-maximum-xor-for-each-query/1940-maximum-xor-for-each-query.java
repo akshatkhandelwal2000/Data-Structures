@@ -1,5 +1,6 @@
 class Solution {
     public int[] getMaximumXor(int[] nums, int maximumBit) {
+        // TC : O(N) // SC : O(1)
         int n = nums.length;
         int[] ans = new int[n];
         int max = (int)Math.pow(2, maximumBit)-1;
