@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1325-path-with-maximum-probability) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0658-find-k-closest-elements) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Number Theory
 |  |
 | ------- |
