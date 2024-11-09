@@ -1,6 +1,6 @@
 class Solution {
     public int[] findXSum(int[] nums, int k, int x) {
-        // TC : O(N) // SC : O(N)
+        // TC : O(NlogK) // SC : O(N)
         int  n = nums.length;
         int[] ans = new int[n-k+1];
         for(int i = 0; i < n-k+1; i++) {
