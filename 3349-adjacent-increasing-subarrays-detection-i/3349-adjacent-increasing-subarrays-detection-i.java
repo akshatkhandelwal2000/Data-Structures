@@ -1,5 +1,6 @@
 class Solution {
     public boolean hasIncreasingSubarrays(List<Integer> nums, int k) {
+        // TC : O(N) // SC : O(1)
         if(k == 1) {
             return true;
         }
