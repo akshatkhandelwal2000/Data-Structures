@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0909-stone-game) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0932-monotonic-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1002-maximum-width-ramp) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
 | [0870-magic-squares-in-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1256-rank-transform-of-an-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1502-construct-k-palindrome-strings) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0780-max-chunks-to-make-sorted) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0948-sort-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1256-rank-transform-of-an-array) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1530-check-if-a-string-can-break-another-string) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1502-construct-k-palindrome-strings) |
