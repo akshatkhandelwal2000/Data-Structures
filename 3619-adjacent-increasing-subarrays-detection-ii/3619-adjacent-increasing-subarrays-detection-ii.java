@@ -1,5 +1,6 @@
 class Solution {
     public int maxIncreasingSubarrays(List<Integer> nums) {
+        // TC : O(N) // SC : O(1)
         int n = nums.size();
         int ans = 0;
         int count = 1;
