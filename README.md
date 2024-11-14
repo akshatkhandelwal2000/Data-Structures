@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2122-count-special-quadruplets](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2047-find-a-peak-element-ii) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
