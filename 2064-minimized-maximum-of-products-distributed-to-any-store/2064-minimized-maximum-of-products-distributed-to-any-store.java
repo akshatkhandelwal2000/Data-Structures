@@ -1,5 +1,6 @@
 class Solution {
     public int minimizedMaximum(int n, int[] quantities) {
+        // TC : O(NlogN) // SC : O(1)
         int ans = 0;
         int lo = 1;
         int hi = 100000;
