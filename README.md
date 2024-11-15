@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0658-find-k-closest-elements) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2442-number-of-arithmetic-triplets](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2442-number-of-arithmetic-triplets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3195-separate-black-and-white-balls) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0658-find-k-closest-elements) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2047-find-a-peak-element-ii) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -510,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Breadth-First Search
 |  |
 | ------- |
