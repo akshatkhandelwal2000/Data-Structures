@@ -6,20 +6,16 @@ class Solution {
             return nums;
         }
         int[] ans = new int[n-k+1];
-        int i = 0;
-        int j = 0;
-        int max = -1;
-        while(j < n) {
-            max = Math.max(max, nums[j]);
-            if(j > 0 && nums[j-1]+1 != nums[j]){
-                ans[i] = -1;
+        for(int i = 0; i < n-k+1; i++) {
+            int max = -1;
+            for(int j = i+1; j <= i+k-1; j++) {
+                max = Math.max(max, nums[j]);
+                if(nums[j]-1 != nums[j-1]) {
+                    max = -1;
+                    break;
+                }
             }
-            if(j-i+1 == k) {
-                ans[i] = ans[i] != -1 ? max : -1;
-                max = 0;
-                i++;
-            }
-            j++;
+            ans[i] = max;
         }
         return ans;
     }
