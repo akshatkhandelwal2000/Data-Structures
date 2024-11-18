@@ -1,6 +1,6 @@
 class Solution {
     public int[] decrypt(int[] code, int k) {
-        // TC : O(N*K) // SC : O(1)
+        // TC : O(N*K) // SC : O(N)
         int n = code.length;
         int[] ans = new int[n];
         for(int i = 0; i < n; i++) {
