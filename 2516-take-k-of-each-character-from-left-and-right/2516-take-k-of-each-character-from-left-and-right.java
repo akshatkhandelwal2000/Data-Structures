@@ -1,5 +1,6 @@
 class Solution {
     public int takeCharacters(String s, int k) {
+        // TC : O(N) // SC : O(1)
         int n = s.length();
         int[] map = new int[3];
         for(int i = 0; i < n; i++) {
