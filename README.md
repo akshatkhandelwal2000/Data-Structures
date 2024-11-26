@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1325-path-with-maximum-probability) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [3189-find-champion-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3189-find-champion-ii) |
 ## Array
 |  |
 | ------- |
