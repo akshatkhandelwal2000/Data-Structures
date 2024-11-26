@@ -1,5 +1,6 @@
 class Solution {
     public int findChampion(int n, int[][] edges) {
+        // TC : O(N) // SC : O(N)
         int m = edges.length;
         if(m == 0 && n == 1) {
             return 0;
