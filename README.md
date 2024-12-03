@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2232-adding-spaces-to-a-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2232-adding-spaces-to-a-string) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1972-rotating-the-box) |
+| [2232-adding-spaces-to-a-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2232-adding-spaces-to-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2442-number-of-arithmetic-triplets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3195-separate-black-and-white-balls) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2232-adding-spaces-to-a-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2846-robot-collisions) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2232-adding-spaces-to-a-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2476-check-distances-between-same-letters](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2502-sort-the-people) |
