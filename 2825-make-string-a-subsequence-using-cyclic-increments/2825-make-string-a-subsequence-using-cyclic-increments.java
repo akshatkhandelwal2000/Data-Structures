@@ -16,7 +16,7 @@ class Solution {
             else {
                 int a = str1.charAt(i)-97;
                 a = a%25;
-                if(a == 0) {
+                if(str1.charAt(i) == 'z') {
                     a = -1;
                 }
                 char b = (char)(a+98);
