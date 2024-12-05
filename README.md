@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2442-number-of-arithmetic-triplets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3195-separate-black-and-white-balls) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2232-adding-spaces-to-a-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2476-check-distances-between-same-letters](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2580-circular-sentence) |
