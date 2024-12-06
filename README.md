@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2586-longest-square-streak-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2594-count-pairs-of-similar-strings) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2727-number-of-senior-citizens) |
 | [2777-find-the-distinct-difference-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2777-find-the-distinct-difference-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2594-count-pairs-of-similar-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2777-find-the-distinct-difference-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2777-find-the-distinct-difference-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2047-find-a-peak-element-ii) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2502-sort-the-people) |
 | [2586-longest-square-streak-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2846-robot-collisions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-append-k-integers-with-minimal-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3195-separate-black-and-white-balls](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
