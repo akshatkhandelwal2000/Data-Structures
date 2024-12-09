@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3221-find-the-peaks) |
 | [3291-find-if-array-can-be-sorted](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3427-special-array-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3427-special-array-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3427-special-array-ii](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3427-special-array-ii) |
 ## String Matching
 |  |
 | ------- |
