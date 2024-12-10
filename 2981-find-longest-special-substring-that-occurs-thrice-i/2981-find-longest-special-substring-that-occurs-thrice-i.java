@@ -1,5 +1,6 @@
 class Solution {
     public int maximumLength(String s) {
+        // TC : O(N) // SC : O(N)
         int n = s.length();
         int ans = -1;
         Map<String, Integer> map = new HashMap<>();
