@@ -1,6 +1,6 @@
 class Solution {
     public int maximumBeauty(int[] nums, int k) {
-        // TC : O(NlogN) // SC : O(NlogN)
+        // TC : O(NlogN) // SC : O(1)
         Arrays.sort(nums);
         int j = 0, i = 0;
         for(j = 0; j < nums.length; j++) {
