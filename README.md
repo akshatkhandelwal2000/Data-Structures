@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2846-robot-collisions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2868-continuous-subarrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2868-continuous-subarrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2868-continuous-subarrays) |
 ## String
 |  |
 | ------- |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2868-continuous-subarrays) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
 |  |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -617,4 +621,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/1488-sort-integers-by-the-power-value) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/akshatkhandelwal2000/Data-Structures/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
