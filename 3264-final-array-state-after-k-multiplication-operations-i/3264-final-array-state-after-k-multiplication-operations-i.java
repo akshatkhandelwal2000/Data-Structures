@@ -15,10 +15,10 @@ class Solution {
             pq.offer(new int[]{nums[i], i});
         }
         while(k-- > 0) {
-            int a = pq.peek()[0];
-            int b = pq.peek()[1];
+            int x = pq.peek()[0];
+            int y = pq.peek()[1];
             pq.poll();
-            pq.offer(new int[]{a*multiplier, b});
+            pq.offer(new int[]{x*multiplier, y});
         }
         while(!pq.isEmpty()) {
             ans[pq.peek()[1]] = pq.peek()[0];
