@@ -26,16 +26,12 @@ class Solution {
                 for(int i = 0; i < size; i++) {
                     TreeNode curr = q.poll();
                     if(curr.left != null) {
-                        if(in%2 == 0) {
-                            list.add(curr.left.val);
-                    }
-                    q.offer(curr.left);
+                        list.add(curr.left.val);
+                        q.offer(curr.left);
                     }
                     if(curr.right != null) {
-                        if(in%2 == 0) {
-                            list.add(curr.right.val);
-                    }
-                    q.offer(curr.right);
+                        list.add(curr.right.val);
+                        q.offer(curr.right);
                     }
                 }
             }
