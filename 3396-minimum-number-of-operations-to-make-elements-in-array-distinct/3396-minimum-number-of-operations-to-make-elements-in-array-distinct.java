@@ -1,5 +1,6 @@
 class Solution {
     public int minimumOperations(int[] nums) {
+        // TC : O(N) // SC : O(N)
         int n = nums.length;
         Set<Integer> set = new HashSet<>();
         int i = n-1;
