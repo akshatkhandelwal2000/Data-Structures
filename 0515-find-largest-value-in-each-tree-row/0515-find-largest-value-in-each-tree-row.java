@@ -15,26 +15,27 @@
  */
 class Solution {
     public List<Integer> largestValues(TreeNode root) {
-        // TC -> O(N)
-        // SC -> O(N)
-        List<Integer> ans = new ArrayList<>();
+        // TC : O(N) // SC : O(N)
         Queue<TreeNode> q = new LinkedList<>();
-        if(root == null) return ans;
-        q.add(root);
+        q.offer(root);
+        List<Integer> ans = new ArrayList<>();
+        if(root == null) {
+            return ans;
+        }
         while(!q.isEmpty()) {
-            int len = q.size();
-            int cMax = Integer.MIN_VALUE;
-            for(int i = 0; i < len; i++) {
-                TreeNode node = q.poll();
-                cMax = Math.max(cMax, node.val);
-                if(node.left != null) {
-                    q.add(node.left);
+            int size = q.size();
+            int max = Integer.MIN_VALUE;
+            for(int i = 0; i < size; i++) {
+                TreeNode curr = q.poll();
+                max = Math.max(max, curr.val);
+                if(curr.left != null) {
+                    q.offer(curr.left);
                 }
-                if(node.right != null) {
-                    q.add(node.right);
+                if(curr.right != null) {
+                    q.offer(curr.right);
                 }
             }
-            ans.add(cMax);
+            ans.add(max);
         }
         return ans;
     }
