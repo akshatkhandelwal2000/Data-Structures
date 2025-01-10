@@ -1,6 +1,6 @@
 class Solution {
     public List<String> wordSubsets(String[] words1, String[] words2) {
-        // TC : O(M*N) // SC : O(N)
+        // TC : O(M+N) // SC : O(N)
         int n = words1.length;
         int m = words2.length;
         List<String> ans = new ArrayList<>();
@@ -15,7 +15,6 @@ class Solution {
                 }
             }
         }
-
         for(int i = 0; i < n; i++) {
             boolean flag = true;
             String a = words1[i];
@@ -23,14 +22,12 @@ class Solution {
             for(int e = 0; e < a.length(); e++) {
                 words1map.put(a.charAt(e), words1map.getOrDefault(a.charAt(e), 0)+1);
             }
-            //for(int j = 0; j < n; j++) {
-                for(char c : wordsmap.keySet()) {
-                    if(!words1map.containsKey(c) || words1map.get(c) < wordsmap.get(c)) {
-                        flag = false;
-                        break;
-                    }
+            for(char c : wordsmap.keySet()) {
+                if(!words1map.containsKey(c) || words1map.get(c) < wordsmap.get(c)) {
+                    flag = false;
+                    break;
                 }
-            //}
+            }
             if(flag) {
                 ans.add(words1[i]);
             }
