@@ -1,5 +1,6 @@
 class Solution {
     public boolean checkValid(int[][] matrix) {
+        // TC : O(N^2) // SC : O(N)
         int m = matrix.length;
         int n = matrix[0].length;
         for(int i = 0; i < m; i++) {
